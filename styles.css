@@ -1,0 +1,17 @@
+body {
+color:white;
+}
+.yellow-border {
+    border:3px solid yellow;
+}
+#black-background{
+    background-color:black;
+}
+ .Georgia {
+     font: italic bold 16px/32px Georgia, serif;
+}
+img.photo {
+	border: 4px solid #999;
+	background-color: #fcfcfc;
+	padding: 8px;
+}
